@@ -1,0 +1,5 @@
+evadb>=0.3.8
+numpy
+pandas>=1.5.1
+requests
+time
